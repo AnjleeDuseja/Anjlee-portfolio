@@ -26,7 +26,7 @@ const categorizedProjects = {
         'A classic Tic Tac Toe game built using HTML, CSS, and JavaScript.It features a clean UI, win detection logic, and real-time interactivity.',
         tech: ['HTML', 'CSS' ,'JavaScript', 'DOM Manipulation'],
       github: 'https://github.com/AnjleeDuseja/Tic_Tac_Toe',
-      live: 'https://anjleeduseja.github.io/React-Basic-App/',
+      live: 'https://anjleeduseja.github.io/Tic_Tac_Toe//',
     },
   ],
   Backend: [],
